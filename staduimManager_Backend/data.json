@@ -1,0 +1,12 @@
+[
+  {
+    "stadiumName" : "Ooredoo LAC2",
+    "stadiumId" : 1,
+    "city" : "Tunis"
+  },
+  {
+    "stadiumName" : "Terrain Ford",
+    "stadiumId" : 2,
+    "city" : "Ben Arous"
+  }
+]
